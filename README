@@ -1,6 +1,6 @@
 Kolokwium zaliczeniowe z przedmiotu Zarzadzanie Projektami Informatycznymi - 3 czerwca 2011
 
-Oceniana jest tylko zawartosc zdalnego repozytorium, z stanem zatwierdzen wykonanych
+Oceniana jest tylko zawartosc zdalnego repozytorium, ze stanem zatwierdzen wykonanych
 do zakonczenia pisania kolokwium. Pozniejsze zatwierdzenia nie beda uwzgledniane.
 
  I) Utworzyc sobie wlasna kopie repozytorium hello1/hello1 na serwerze github.com,
@@ -9,15 +9,15 @@ II) Pobrac utworzona wlasnie kopie na komputer (repozytorium lokalne). W nim wyk
 
 ==============================================================================
 
-Do zrobienia jest tylko prosty program w C++ wyswietlajacy informacje o stydencie,
+Do zrobienia jest tylko prosty program w C++ wyswietlajacy informacje o studencie,
 odpowiedz na kilka "prostych" pytan, wykonanie kilku polecen.
-Repozytorium ma dwie galezie: master i cout. Pracujemy w obu. Bedzie tez trzeba galaz: pytania.
-Wszystkie zmiany staramy sie zatwierdzac, im czesciej tym lepiej.
+Repozytorium ma dwie galezie: master i cout. Pracujemy w obu.
+Na koniec stworzymy tez trzecia galaz: pytania. Wszystkie zmiany staramy sie zatwierdzac.
 
 1) Z galezi zdalnej origin/cout tworzymy sobie galaz lokalna (o takiej samej nazwie).
 
 Przechodzimy do galezi cout:
-2) W plilu zrodlowym wpisujemy swoje dane, maja sie wyswietlac na ekranie.
+2) W pliku zrodlowym wpisujemy swoje dane, maja sie wyswietlac na ekranie.
    Plik zrodlowy powinien sie kompilowac.
 3) Plik wykonywalny dodajemy do listy plikow ignorowanych.
    Plik ma byc ignorowany u kazdego programisty pracujacego z tym repozytorium.
@@ -28,12 +28,12 @@ Przechodzimy do galezi master:
    Rozwiazujemy konflikt (wszystko ma sie wyswietlac, komentarze prosze usunac). Zatwierdzamy scalenie.
 6) W galezi master usuwamy wszystkie zmiany wykonanie przez uzytkownika rperlinski.
 7) Odpowiadamy na pytania umieszczone w pliku 'pytania.txt'.
-   Odpowiedzi umieszczamy w tym samym pliku. Zminy zatwierdzamy.
+   Odpowiedzi umieszczamy w tym samym pliku. Zmiany zatwierdzamy.
 8) Z utworzonego wlasnie zatwierdzenia tworzymy galaz 'pytania'.
 
 Przechodzimy do galezi pytania:
 9) Usuwamy z repozytorium (w galezi pytania) wszystkie pliki poza plikiem pytania.txt.
-   W tej galezi ma zostac tylko plik pytania.txt.
+   Ma zostac tylko plik pytania.txt.
 10) Utworzona galaz (po zatwierdzeniu) umieszczamy na serwerze.
 
 III) Zaktualizowac zawartosc repozytorium na serwerze dla pozostalych dwoch galezi.
