@@ -26,15 +26,18 @@ Przechodzimy do galezi cout:
 Przechodzimy do galezi master:
 5) Do galezi master scalamy zmiany z galezi cout.
    Rozwiazujemy konflikt (wszystko ma sie wyswietlac, komentarze prosze usunac). Zatwierdzamy scalenie.
-6) Z utworzonego wlasnie zatwierdzenia tworzymy galaz 'pytania'.
+6) Z calego repozytorium usuwamy wszystkie zmiany wykonanie przez uzytkownika rperlinski.
+7) Odpowiadamy na pytania umieszczone w pliku 'pytania.txt'.
+   Odpowiedzi umieszczamy w tym samym pliku. Zminy zatwierdzamy.
+8) Z utworzonego wlasnie zatwierdzenia tworzymy galaz 'pytania'.
 
 Przechodzimy do galezi pytania:
-7) Usuwamy z repozytorium (w galezi pytania) wszystkie pliki poza plikiem pytania.txt.
+9) Usuwamy z repozytorium (w galezi pytania) wszystkie pliki poza plikiem pytania.txt.
    W tej galezi ma zostac tylko plik pytania.txt.
-8) Utworzona galaz (po zatwierdzeniu) umieszczamy na serwerze.
+10) Utworzona galaz (po zatwierdzeniu) umieszczamy na serwerze.
 
 III) Zaktualizowac zawartosc repozytorium na serwerze dla pozostalych dwoch galezi.
-     Galaz 'pytania' powinna byc aktualna po wykonaniu punktu 8.
+     Galaz 'pytania' powinna byc aktualna po wykonaniu punktu 10.
 
 To wszystko, dziekuje,
 Robert Perlinski
