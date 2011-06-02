@@ -1,0 +1,24 @@
+Kolokwium zaliczeniowe z przedmiotu Zarzadzanie Projektami Informatycznymi - 3 czerwca 2011
+
+Oceniana jest tylko zawartosc zdalnego repozytorium, z stanem zatwierdzen wykonanych
+do zakonczenia pisania kolokwium. Pozniejsze zatwierdzenia nie beda uwzgledniane.
+
+ I) Utworzyc sobie wlasna kopie repozytorium hello1/hello1 na serwerze github.com,
+    do ktorego nikt poza wami nie ma dostepu. Zawartosc tego zdalnego repozytorium bedzie oceniana.
+II) Pobrac utworzona wlasnie kopie na komputer (repozytorium lokalne). W nim wykonujemy cale kolokwium.
+
+==============================================================================
+
+Do zrobienia jest tylko prosty program w C++ wyswietlajacy informacje o stydencie,
+odpowiedz na kilka "prostych" pytan, wykonanie kilku polecen.
+Repozytorium ma dwie galezie: master i cout. Pracujemy w obu. Bedzie tez trzeba galaz: pytania.
+Wszystkie zmiany staramy sie zatwierdzac, im czesciej tym lepiej.
+
+Przechodzimy do galezi cout:
+1) W plilu zrodlowym wpisujemy swoje dane, maja sie wyswietlac na ekranie.
+   Plik zrodlowy powinien sie kompilowac.
+2) Plik wykonywalny dodajemy do listy plikow ignorowanych.
+   Plik ma byc ignorowany u kazdego programisty pracujacego z tym repozytorium.
+3) Zatwierdzamy zmiany.
+
+
