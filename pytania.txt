@@ -4,4 +4,6 @@
 2) Jaki uzytkownik jest odpowiedzialny za wprowadzenie tego wlasnie drugiego pytania?
    Jakim poleceniem mozna to sprawdzic?
 
+Odpowiedzi:
+==============================================================================
 
