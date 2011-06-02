@@ -1,5 +1,6 @@
+// Imie Nazwisko, grupa(sepcjalnosc), nr. indeksu
 
-const float stala = 2.7182818;
+const unsigned stala = 1000;
 
 int main(int argc, char **argv) {
   return 0;
