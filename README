@@ -26,7 +26,7 @@ Przechodzimy do galezi cout:
 Przechodzimy do galezi master:
 5) Do galezi master scalamy zmiany z galezi cout.
    Rozwiazujemy konflikt (wszystko ma sie wyswietlac, komentarze prosze usunac). Zatwierdzamy scalenie.
-6) Z calego repozytorium usuwamy wszystkie zmiany wykonanie przez uzytkownika rperlinski.
+6) W galezi master usuwamy wszystkie zmiany wykonanie przez uzytkownika rperlinski.
 7) Odpowiadamy na pytania umieszczone w pliku 'pytania.txt'.
    Odpowiedzi umieszczamy w tym samym pliku. Zminy zatwierdzamy.
 8) Z utworzonego wlasnie zatwierdzenia tworzymy galaz 'pytania'.
