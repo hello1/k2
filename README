@@ -14,11 +14,28 @@ odpowiedz na kilka "prostych" pytan, wykonanie kilku polecen.
 Repozytorium ma dwie galezie: master i cout. Pracujemy w obu. Bedzie tez trzeba galaz: pytania.
 Wszystkie zmiany staramy sie zatwierdzac, im czesciej tym lepiej.
 
-Przechodzimy do galezi cout:
-1) W plilu zrodlowym wpisujemy swoje dane, maja sie wyswietlac na ekranie.
-   Plik zrodlowy powinien sie kompilowac.
-2) Plik wykonywalny dodajemy do listy plikow ignorowanych.
-   Plik ma byc ignorowany u kazdego programisty pracujacego z tym repozytorium.
-3) Zatwierdzamy zmiany.
+1) Z galezi zdalnej origin/cout tworzymy sobie galaz lokalna (o takiej samej nazwie).
 
+Przechodzimy do galezi cout:
+2) W plilu zrodlowym wpisujemy swoje dane, maja sie wyswietlac na ekranie.
+   Plik zrodlowy powinien sie kompilowac.
+3) Plik wykonywalny dodajemy do listy plikow ignorowanych.
+   Plik ma byc ignorowany u kazdego programisty pracujacego z tym repozytorium.
+4) Zatwierdzamy zmiany.
+
+Przechodzimy do galezi master:
+5) Do galezi master scalamy zmiany z galezi cout.
+   Rozwiazujemy konflikt (wszystko ma sie wyswietlac, komentarze prosze usunac). Zatwierdzamy scalenie.
+6) Z utworzonego wlasnie zatwierdzenia tworzymy galaz 'pytania'.
+
+Przechodzimy do galezi pytania:
+7) Usuwamy z repozytorium (w galezi pytania) wszystkie pliki poza plikiem pytania.txt.
+   W tej galezi ma zostac tylko plik pytania.txt.
+8) Utworzona galaz (po zatwierdzeniu) umieszczamy na serwerze.
+
+III) Zaktualizowac zawartosc repozytorium na serwerze dla pozostalych dwoch galezi.
+     Galaz 'pytania' powinna byc aktualna po wykonaniu punktu 8.
+
+To wszystko, dziekuje,
+Robert Perlinski
 
