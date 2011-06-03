@@ -3,7 +3,7 @@ Kolokwium zaliczeniowe z przedmiotu Zarzadzanie Projektami Informatycznymi - 3 c
 Oceniana jest tylko zawartosc zdalnego repozytorium, ze stanem zatwierdzen wykonanych
 do zakonczenia pisania kolokwium. Pozniejsze zatwierdzenia nie beda uwzgledniane.
 
- I) Utworzyc sobie wlasna kopie repozytorium hello1/hello1 na serwerze github.com,
+ I) Utworzyc sobie wlasna kopie repozytorium hello1/k2 na serwerze github.com,
     do ktorego nikt poza wami nie ma dostepu. Zawartosc tego zdalnego repozytorium bedzie oceniana.
 II) Pobrac utworzona wlasnie kopie na komputer (repozytorium lokalne). W nim wykonujemy cale kolokwium.
 
@@ -24,8 +24,9 @@ Przechodzimy do galezi cout:
 4) Zatwierdzamy zmiany.
 
 Przechodzimy do galezi master:
-5) Do galezi master scalamy zmiany z galezi cout.
-   Rozwiazujemy konflikt (wszystko ma sie wyswietlac, komentarze prosze usunac). Zatwierdzamy scalenie.
+5) Do galezi master scalamy zmiany z galezi cout. Rozwiazujemy konflikt:
+   informacje o przedmiocie i studencie maja sie wyswietlac, gorne komentarze prosze usunac.
+   Zatwierdzamy scalenie.
 6) W galezi master usuwamy wszystkie zmiany wykonanie przez uzytkownika rperlinski.
 7) Odpowiadamy na pytania umieszczone w pliku 'pytania.txt'.
    Odpowiedzi umieszczamy w tym samym pliku. Zmiany zatwierdzamy.
